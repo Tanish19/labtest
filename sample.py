@@ -1,1 +1,1 @@
-ptint("test successful")
+print("test successful")
